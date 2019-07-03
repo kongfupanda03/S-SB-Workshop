@@ -1,4 +1,4 @@
-# Example R script "A1234567B GU Zhan workshop 2.1.R"
+
 library(tidyverse)
 
 #a. Read in the data from the csv file.
